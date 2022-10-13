@@ -1,2 +1,2 @@
 # github-tutorial
-Setting up the very first repository
+Setting up our very first repository
